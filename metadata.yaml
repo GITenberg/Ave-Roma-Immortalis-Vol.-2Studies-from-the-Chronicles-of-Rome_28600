@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28600#Ave-Roma-Immortalis-Vol.-2Studies-from-the-Chronicles-of-Rome
 gutenberg_issued: '2009-04-25'
 gutenberg_type: Text
 identifiers:
